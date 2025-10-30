@@ -1,0 +1,600 @@
+Player,Team,Position,Week,Opponent,Passing_Yards,Rushing_Yards,Receiving_Yards,Carries,Targets,Receptions
+Patrick Mahomes,Chiefs,QB,1,Chargers,258,57,0,0,0,0
+Patrick Mahomes,Chiefs,QB,2,Eagles,187,66,0,0,0,0
+Patrick Mahomes,Chiefs,QB,3,Giants,224,2,0,0,0,0
+Patrick Mahomes,Chiefs,QB,4,Ravens,270,5,0,0,0,0
+Patrick Mahomes,Chiefs,QB,5,Jaguars,318,60,0,0,0,0
+Patrick Mahomes,Chiefs,QB,6,Lions,257,32,0,0,0,0
+Patrick Mahomes,Chiefs,QB,7,Raiders,286,28,0,0,0,0
+Patrick Mahomes,Chiefs,QB,8,Commanders,299,30,0,0,0,0
+Travis Kelce,Chiefs,TE,1,Chargers,0,0,47,0,4,2
+Travis Kelce,Chiefs,TE,2,Eagles,0,0,61,0,6,4
+Travis Kelce,Chiefs,TE,3,Giants,0,0,26,0,7,4
+Travis Kelce,Chiefs,TE,4,Ravens,0,0,48,0,5,5
+Travis Kelce,Chiefs,TE,5,Jaguars,0,0,61,0,8,7
+Travis Kelce,Chiefs,TE,6,Lions,0,0,78,0,7,6
+Travis Kelce,Chiefs,TE,7,Raiders,0,0,54,0,3,3
+Travis Kelce,Chiefs,TE,8,Commanders,0,0,99,0,8,6
+Jonathan Taylor,Colts,RB,1,Dolphins,0,71,27,18,3,3
+Jonathan Taylor,Colts,RB,2,Broncos,0,165,50,25,2,2
+Jonathan Taylor,Colts,RB,3,Titans,0,102,16,17,4,3
+Jonathan Taylor,Colts,RB,4,Rams,0,76,20,17,5,5
+Jonathan Taylor,Colts,RB,5,Raiders,0,66,20,17,4,3
+Jonathan Taylor,Colts,RB,6,Cardinals,0,123,14,21,4,4
+Jonathan Taylor,Colts,RB,7,Chargers,0,94,38,16,3,3
+Jonathan Taylor,Colts,RB,8,Titans,0,153,21,12,2,2
+Michael Pittman,Colts,WR,1,Dolphins,0,0,80,0,8,6
+Michael Pittman,Colts,WR,2,Broncos,0,0,40,0,5,4
+Michael Pittman,Colts,WR,3,Titans,0,0,73,0,6,6
+Michael Pittman,Colts,WR,4,Rams,0,0,41,0,10,5
+Michael Pittman,Colts,WR,5,Raiders,0,0,39,0,6,5
+Michael Pittman,Colts,WR,6,Cardinals,0,0,20,0,3,2
+Michael Pittman,Colts,WR,7,Chargers,0,0,58,0,9,7
+Michael Pittman,Colts,WR,8,Titans,0,0,95,0,9,8
+Daniel Jones,Colts,QB,1,Dolphins,272,26,0,7,0,0
+Daniel Jones,Colts,QB,2,Broncos,316,2,0,6,0,0
+Daniel Jones,Colts,QB,3,Titans,228,27,0,4,0,0
+Daniel Jones,Colts,QB,4,Rams,262,0,0,0,0,0
+Daniel Jones,Colts,QB,5,Raiders,212,2,0,1,0,0
+Daniel Jones,Colts,QB,6,Cardinals,212,20,0,5,0,0
+Daniel Jones,Colts,QB,7,Chargers,288,7,0,5,0,0
+Daniel Jones,Colts,QB,8,Titans,272,3,0,1,0,0
+Josh Allen,Bills,QB,1,Ravens,394,30,0,14,0,0
+Josh Allen,Bills,QB,2,Jets,148,59,0,6,0,0
+Josh Allen,Bills,QB,3,Dolphins,213,25,0,4,0,0
+Josh Allen,Bills,QB,4,Saints,209,45,0,7,0,0
+Josh Allen,Bills,QB,5,Patriots,253,53,0,9,0,0
+Josh Allen,Bills,QB,6,Falcons,108,42,0,6,0,0
+Josh Allen,Bills,QB,8,Panthers,163,7,0,3,0,0
+James Cook,Bills,RB,1,Ravens,0,44,58,13,5,5
+James Cook,Bills,RB,2,Jets,0,132,3,21,1,1
+James Cook,Bills,RB,3,Dolphins,0,108,10,19,3,3
+James Cook,Bills,RB,4,Saints,0,117,18,22,4,3
+James Cook,Bills,RB,5,Patriots,0,49,0,15,1,0
+James Cook,Bills,RB,6,Falcons,0,87,0,17,0,0
+James Cook,Bills,RB,8,Panthers,0,216,0,19,0,0
+Khalil Shakir,Bills,WR,1,Ravens,0,0,64,0,9,6
+Khalil Shakir,Bills,WR,2,Jets,0,0,12,0,2,1
+Khalil Shakir,Bills,WR,3,Dolphins,0,0,45,0,4,4
+Khalil Shakir,Bills,WR,4,Saints,0,0,69,0,5,5
+Khalil Shakir,Bills,WR,5,Patriots,0,0,45,0,9,6
+Khalil Shakir,Bills,WR,6,Falcons,0,0,33,0,5,3
+Khalil Shakir,Bills,WR,8,Panthers,0,0,88,0,7,6
+Jamarr Chase,Bengals,WR,1,Browns,0,0,26,0,5,2
+Jamarr Chase,Bengals,WR,2,Jaguars,0,0,165,0,16,14
+Jamarr Chase,Bengals,WR,3,Vikings,0,0,50,0,6,5
+Jamarr Chase,Bengals,WR,4,Broncos,0,0,23,0,8,5
+Jamarr Chase,Bengals,WR,5,Lions,0,0,110,0,10,6
+Jamarr Chase,Bengals,WR,6,Packers,0,0,94,0,12,10
+Jamarr Chase,Bengals,WR,7,Steelers,0,0,161,0,23,16
+Jamarr Chase,Bengals,WR,8,Jets,0,0,91,0,19,12
+Chase Brown,Bengals,RB,1,Browns,0,43,8,21,3,2
+Chase Brown,Bengals,RB,2,Jaguars,0,47,18,16,3,2
+Chase Brown,Bengals,RB,3,Vikings,0,3,17,10,5,4
+Chase Brown,Bengals,RB,4,Broncos,0,40,31,10,3,3
+Chase Brown,Bengals,RB,5,Lions,0,27,21,8,8,7
+Chase Brown,Bengals,RB,6,Packers,0,42,7,9,2,2
+Chase Brown,Bengals,RB,7,Steelers,0,108,0,11,4,2
+Chase Brown,Bengals,RB,8,Jets,0,73,32,12,3,3
+Josh Jacobs,Packers,RB,1,Lions,0,66,0,19,0,0
+Josh Jacobs,Packers,RB,2,Commanders,0,84,0,23,0,0
+Josh Jacobs,Packers,RB,3,Browns,0,30,0,16,0,0
+Josh Jacobs,Packers,RB,4,Cowboys,0,86,0,22,0,0
+Josh Jacobs,Packers,RB,6,Bengals,0,93,0,18,0,0
+Josh Jacobs,Packers,RB,7,Cardinals,0,55,0,13,0,0
+Josh Jacobs,Packers,RB,8,Steelers,0,33,0,13,0,0
+Tucker Kraft,Packers,TE,1,Lions,0,0,16,0,4,2
+Tucker Kraft,Packers,TE,2,Commanders,0,0,124,0,7,6
+Tucker Kraft,Packers,TE,3,Browns,0,0,29,0,4,3
+Tucker Kraft,Packers,TE,4,Cowboys,0,0,56,0,5,5
+Tucker Kraft,Packers,TE,6,Bengals,0,0,43,0,2,2
+Tucker Kraft,Packers,TE,7,Cardinals,0,0,58,0,10,5
+Tucker Kraft,Packers,TE,8,Steelers,0,0,143,0,9,7
+Jordan Love,Packers,QB,1,Lions,188,4,0,3,0,0
+Jordan Love,Packers,QB,2,Commanders,292,12,0,3,0,0
+Jordan Love,Packers,QB,3,Browns,183,18,0,4,0,0
+Jordan Love,Packers,QB,4,Cowboys,337,28,0,3,0,0
+Jordan Love,Packers,QB,6,Bengals,259,26,0,7,0,0
+Jordan Love,Packers,QB,7,Cardinals,179,22,0,4,0,0
+Jordan Love,Packers,QB,8,Steelers,360,0,0,1,0,0
+Emeka Egbuka,Buccaneers,WR,1,Falcons,0,0,67,0,6,4
+Emeka Egbuka,Buccaneers,WR,2,Texans,0,0,29,0,7,4
+Emeka Egbuka,Buccaneers,WR,3,Jets,0,0,85,0,8,6
+Emeka Egbuka,Buccaneers,WR,4,Eagles,0,0,101,0,10,4
+Emeka Egbuka,Buccaneers,WR,5,Seahawks,0,0,163,0,7,7
+Emeka Egbuka,Buccaneers,WR,6,49ers,0,0,24,0,4,2
+Emeka Egbuka,Buccaneers,WR,7,Lions,0,0,58,0,12,4
+Emeka Egbuka,Buccaneers,WR,8,Saints,0,0,35,0,9,3
+Baker Mayfield,Buccaneers,QB,1,Falcons,167,39,0,5,0,0
+Baker Mayfield,Buccaneers,QB,2,Texans,215,33,0,3,0,0
+Baker Mayfield,Buccaneers,QB,3,Jets,233,44,0,4,0,0
+Baker Mayfield,Buccaneers,QB,4,Eagles,289,13,0,2,0,0
+Baker Mayfield,Buccaneers,QB,5,Seahawks,379,15,0,5,0,0
+Baker Mayfield,Buccaneers,QB,6,49ers,256,14,0,3,0,0
+Baker Mayfield,Buccaneers,QB,7,Lions,228,0,0,0,0,0
+Baker Mayfield,Buccaneers,QB,8,Saints,152,0,0,0,0,0
+Amon-Ra St Brown,Lions,WR,1,Packers,0,0,45,0,6,4
+Amon-Ra St Brown,Lions,WR,2,Bears,0,0,115,0,11,9
+Amon-Ra St Brown,Lions,WR,3,Ravens,0,0,77,0,8,7
+Amon-Ra St Brown,Lions,WR,4,Browns,0,0,70,0,7,7
+Amon-Ra St Brown,Lions,WR,5,Bengals,0,0,100,0,9,8
+Amon-Ra St Brown,Lions,WR,6,Chiefs,0,0,45,0,10,9
+Amon-Ra St Brown,Lions,WR,7,Buccaneers,0,0,86,0,10,6
+Jahmyr Gibbs,Lions,RB,1,Packers,0,19,31,9,10,10
+Jahmyr Gibbs,Lions,RB,2,Bears,0,94,10,12,3,3
+Jahmyr Gibbs,Lions,RB,3,Ravens,0,67,32,22,6,5
+Jahmyr Gibbs,Lions,RB,4,Browns,0,91,6,15,2,2
+Jahmyr Gibbs,Lions,RB,5,Bengals,0,54,33,12,2,2
+Jahmyr Gibbs,Lions,RB,6,Chiefs,0,65,0,17,2,1
+Jahmyr Gibbs,Lions,RB,7,Buccaneers,0,136,82,17,3,3
+Jared Goff,Lions,QB,1,Packers,225,0,0,0,0,0
+Jared Goff,Lions,QB,2,Bears,334,0,0,0,0,0
+Jared Goff,Lions,QB,3,Ravens,202,0,0,0,0,0
+Jared Goff,Lions,QB,4,Browns,168,0,0,0,0,0
+Jared Goff,Lions,QB,5,Bengals,258,0,0,0,0,0
+Jared Goff,Lions,QB,6,Chiefs,203,0,0,0,0,0
+Jared Goff,Lions,QB,7,Buccaneers,241,0,0,0,0,0
+Trey McBride,Cardinals,TE,1,Saints,0,0,61,0,9,6
+Trey McBride,Cardinals,TE,2,Panthers,0,0,78,0,7,6
+Trey McBride,Cardinals,TE,3,49ers,0,0,43,0,8,5
+Trey McBride,Cardinals,TE,4,Seahawks,0,0,52,0,11,7
+Trey McBride,Cardinals,TE,5,Titans,0,0,41,0,7,5
+Trey McBride,Cardinals,TE,6,Colts,0,0,72,0,11,8
+Trey McBride,Cardinals,TE,7,Packers,0,0,74,0,13,10
+Tyler Warren,Colts,TE,1,Dolphins,0,0,76,0,9,7
+Tyler Warren,Colts,TE,2,Broncos,0,0,79,0,7,4
+Tyler Warren,Colts,TE,3,Titans,0,0,38,0,5,3
+Tyler Warren,Colts,TE,4,Rams,0,0,70,0,6,5
+Tyler Warren,Colts,TE,5,Raiders,0,0,44,0,4,4
+Tyler Warren,Colts,TE,6,Cardinals,0,0,63,0,9,6
+Tyler Warren,Colts,TE,7,Chargers,0,0,69,0,5,4
+Tyler Warren,Colts,TE,8,Titans,0,0,53,0,5,4
+Derrick Henry,Ravens,RB,1,Bills,0,169,0,18,0,0
+Derrick Henry,Ravens,RB,2,Browns,0,23,0,11,0,0
+Derrick Henry,Ravens,RB,3,Lions,0,50,0,12,0,0
+Derrick Henry,Ravens,RB,4,Chiefs,0,42,0,8,0,0
+Derrick Henry,Ravens,RB,5,Texans,0,33,0,15,0,0
+Derrick Henry,Ravens,RB,6,Rams,0,122,0,24,0,0
+Derrick Henry,Ravens,RB,8,Bears,0,71,0,21,0,0
+Devon Achane,Dolphins,RB,1,Colts,0,55,20,7,4,3
+Devon Achane,Dolphins,RB,2,Patriots,0,30,92,11,10,8
+Devon Achane,Dolphins,RB,3,Bills,0,62,29,12,9,7
+Devon Achane,Dolphins,RB,4,Jets,0,99,2,20,2,1
+Devon Achane,Dolphins,RB,5,Panthers,0,16,30,10,7,6
+Devon Achane,Dolphins,RB,6,Chargers,0,128,22,16,6,4
+Devon Achane,Dolphins,RB,7,Browns,0,82,16,13,5,3
+Devon Achane,Dolphins,RB,8,Falcons,0,67,24,18,7,5
+Jaylen Waddle,Dolphins,WR,1,Colts,0,0,30,0,5,4
+Jaylen Waddle,Dolphins,WR,2,Patriots,0,0,68,0,6,5
+Jaylen Waddle,Dolphins,WR,3,Bills,0,0,39,0,6,5
+Jaylen Waddle,Dolphins,WR,4,Jets,0,0,48,0,6,3
+Jaylen Waddle,Dolphins,WR,5,Panthers,0,0,110,0,9,6
+Jaylen Waddle,Dolphins,WR,6,Chargers,0,0,95,0,8,6
+Jaylen Waddle,Dolphins,WR,7,Browns,0,0,15,0,4,1
+Jaylen Waddle,Dolphins,WR,8,Falcons,0,0,99,0,6,5
+Zay Flowers,Ravens,WR,1,Bills,0,0,143,0,9,7
+Zay Flowers,Ravens,WR,2,Browns,0,0,75,0,11,7
+Zay Flowers,Ravens,WR,3,Lions,0,0,13,0,3,2
+Zay Flowers,Ravens,WR,4,Chiefs,0,0,74,0,8,7
+Zay Flowers,Ravens,WR,5,Texans,0,0,72,0,5,5
+Zay Flowers,Ravens,WR,6,Rams,0,0,46,0,10,6
+Zay Flowers,Ravens,WR,8,Bears,0,0,63,0,9,7
+Keenan Allen,Chargers,WR,1,Chiefs,0,0,68,0,10,7
+Keenan Allen,Chargers,WR,2,Raiders,0,0,61,0,7,5
+Keenan Allen,Chargers,WR,3,Broncos,0,0,65,0,11,7
+Keenan Allen,Chargers,WR,4,Giants,0,0,37,0,7,5
+Keenan Allen,Chargers,WR,5,Commanders,0,0,58,0,9,5
+Keenan Allen,Chargers,WR,6,Dolphins,0,0,27,0,7,4
+Keenan Allen,Chargers,WR,7,Colts,0,0,119,0,14,11
+Keenan Allen,Chargers,WR,8,Vikings,0,0,44,0,5,4
+Ladd McConkey,Chargers,WR,1,Chiefs,0,0,74,0,9,6
+Ladd McConkey,Chargers,WR,2,Raiders,0,0,48,0,5,5
+Ladd McConkey,Chargers,WR,3,Broncos,0,0,41,0,7,4
+Ladd McConkey,Chargers,WR,4,Giants,0,0,11,0,6,1
+Ladd McConkey,Chargers,WR,5,Commanders,0,0,39,0,7,5
+Ladd McConkey,Chargers,WR,6,Dolphins,0,0,100,0,9,7
+Ladd McConkey,Chargers,WR,7,Colts,0,0,67,0,15,9
+Ladd McConkey,Chargers,WR,8,Vikings,0,0,88,0,10,6
+Justin Herbert,Chargers,QB,1,Chiefs,318,32,0,7,0,0
+Justin Herbert,Chargers,QB,2,Raiders,242,31,0,9,0,0
+Justin Herbert,Chargers,QB,3,Broncos,300,6,0,2,0,0
+Justin Herbert,Chargers,QB,4,Giants,203,24,0,1,0,0
+Justin Herbert,Chargers,QB,5,Commanders,166,60,0,4,0,0
+Justin Herbert,Chargers,QB,6,Dolphins,264,2,0,1,0,0
+Justin Herbert,Chargers,QB,7,Colts,420,31,0,6,0,0
+Justin Herbert,Chargers,QB,8,Vikings,227,62,0,7,0,0
+Oronde Gadsden,Chargers,TE,1,Chiefs,0,0,0,0,0,0
+Oronde Gadsden,Chargers,TE,2,Raiders,0,0,0,0,0,0
+Oronde Gadsden,Chargers,TE,3,Broncos,0,0,46,0,7,5
+Oronde Gadsden,Chargers,TE,4,Giants,0,0,16,0,3,2
+Oronde Gadsden,Chargers,TE,5,Commanders,0,0,14,0,1,1
+Oronde Gadsden,Chargers,TE,6,Dolphins,0,0,68,0,8,7
+Oronde Gadsden,Chargers,TE,7,Colts,0,0,164,0,9,7
+Oronde Gadsden,Chargers,TE,8,Vikings,0,0,77,0,5,5
+Sam Darnold,Seahawks,QB,1,49ers,150,0,0,0,0,0
+Sam Darnold,Seahawks,QB,2,Steelers,295,0,0,0,0,0
+Sam Darnold,Seahawks,QB,3,Saints,218,0,0,0,0,0
+Sam Darnold,Seahawks,QB,4,Cardinals,242,0,0,0,0,0
+Sam Darnold,Seahawks,QB,5,Buccaneers,341,0,0,0,0,0
+Sam Darnold,Seahawks,QB,6,Jaguars,295,0,0,0,0,0
+Sam Darnold,Seahawks,QB,7,Texans,213,0,0,0,0,0
+Jaxon Smith-Njigba,Seahawks,WR,1,49ers,0,0,124,0,13,9
+Jaxon Smith-Njigba,Seahawks,WR,2,Steelers,0,0,103,0,10,8
+Jaxon Smith-Njigba,Seahawks,WR,3,Saints,0,0,96,0,6,5
+Jaxon Smith-Njigba,Seahawks,WR,4,Cardinals,0,0,79,0,5,4
+Jaxon Smith-Njigba,Seahawks,WR,5,Buccaneers,0,0,132,0,9,8
+Jaxon Smith-Njigba,Seahawks,WR,6,Jaguars,0,0,162,0,13,8
+Jaxon Smith-Njigba,Seahawks,WR,7,Texans,0,0,123,0,14,8
+Cooper Kupp,Seahawks,WR,1,49ers,0,0,15,0,3,2
+Cooper Kupp,Seahawks,WR,2,Steelers,0,0,90,0,9,7
+Cooper Kupp,Seahawks,WR,3,Saints,0,0,31,0,3,2
+Cooper Kupp,Seahawks,WR,4,Cardinals,0,0,26,0,5,4
+Cooper Kupp,Seahawks,WR,5,Buccaneers,0,0,59,0,9,6
+Cooper Kupp,Seahawks,WR,6,Jaguars,0,0,40,0,3,2
+Cooper Kupp,Seahawks,WR,7,Texans,0,0,32,0,1,1
+Bijan Robinson,Falcons,RB,1,Buccaneers,0,24,100,0,7,6
+Bijan Robinson,Falcons,RB,2,Vikings,0,143,25,0,5,3
+Bijan Robinson,Falcons,RB,3,Panthers,0,72,39,0,6,5
+Bijan Robinson,Falcons,RB,4,Commanders,0,75,106,0,5,4
+Bijan Robinson,Falcons,RB,6,Bills,0,170,68,0,8,6
+Bijan Robinson,Falcons,RB,7,49ers,0,40,52,0,8,6
+Bijan Robinson,Falcons,RB,8,Dolphins,0,25,23,0,3,3
+Drake London,Falcons,WR,1,Buccaneers,0,0,55,0,15,8
+Drake London,Falcons,WR,2,Vikings,0,0,49,0,4,3
+Drake London,Falcons,WR,3,Panthers,0,0,55,0,8,5
+Drake London,Falcons,WR,4,Commanders,0,0,110,0,10,8
+Drake London,Falcons,WR,6,Bills,0,0,158,0,16,10
+Drake London,Falcons,WR,7,49ers,0,0,42,0,10,4
+Kyle Pitts,Falcons,TE,1,Buccaneers,0,0,59,0,8,7
+Kyle Pitts,Falcons,TE,2,Vikings,0,0,37,0,5,4
+Kyle Pitts,Falcons,TE,3,Panthers,0,0,39,0,6,4
+Kyle Pitts,Falcons,TE,4,Commanders,0,0,70,0,5,5
+Kyle Pitts,Falcons,TE,6,Bills,0,0,18,0,4,3
+Kyle Pitts,Falcons,TE,7,49ers,0,0,62,0,10,7
+Kyle Pitts,Falcons,TE,8,Dolphins,0,0,59,0,9,9
+Drake Maye,Patriots,QB,1,Raiders,287,11,0,4,0,0
+Drake Maye,Patriots,QB,2,Dolphins,230,31,0,10,0,0
+Drake Maye,Patriots,QB,3,Steelers,268,45,0,7,0,0
+Drake Maye,Patriots,QB,4,Panthers,203,11,0,3,0,0
+Drake Maye,Patriots,QB,5,Bills,273,12,0,3,0,0
+Drake Maye,Patriots,QB,6,Saints,261,28,0,9,0,0
+Drake Maye,Patriots,QB,7,Titans,222,62,0,8,0,0
+Drake Maye,Patriots,QB,8,Browns,282,50,0,7,0,0
+Stefon Diggs,Patriots,WR,1,Raiders,0,0,57,0,7,6
+Stefon Diggs,Patriots,WR,2,Dolphins,0,0,32,0,5,4
+Stefon Diggs,Patriots,WR,3,Steelers,0,0,23,0,3,3
+Stefon Diggs,Patriots,WR,4,Panthers,0,0,101,0,7,6
+Stefon Diggs,Patriots,WR,5,Bills,0,0,146,0,12,10
+Stefon Diggs,Patriots,WR,6,Saints,0,0,28,0,3,3
+Stefon Diggs,Patriots,WR,7,Titans,0,0,69,0,7,7
+Stefon Diggs,Patriots,WR,8,Browns,0,0,14,0,5,3
+Hunter Henry,Patriots,TE,1,Raiders,0,0,66,0,8,4
+Hunter Henry,Patriots,TE,2,Dolphins,0,0,9,0,3,1
+Hunter Henry,Patriots,TE,3,Steelers,0,0,90,0,11,8
+Hunter Henry,Patriots,TE,4,Panthers,0,0,39,0,2,2
+Hunter Henry,Patriots,TE,5,Bills,0,0,46,0,4,2
+Hunter Henry,Patriots,TE,6,Saints,0,0,27,0,3,3
+Hunter Henry,Patriots,TE,7,Titans,0,0,33,0,5,4
+Hunter Henry,Patriots,TE,8,Browns,0,0,7,0,1,1
+Bryce Young,Panthers,QB,1,Jaguars,154,40,0,5,0,0
+Bryce Young,Panthers,QB,2,Cardinals,328,2,0,2,0,0
+Bryce Young,Panthers,QB,3,Falcons,121,8,0,2,0,0
+Bryce Young,Panthers,QB,4,Patriots,150,3,0,1,0,0
+Bryce Young,Panthers,QB,5,Dolphins,198,1,0,3,0,0
+Bryce Young,Panthers,QB,6,Cowboys,199,5,0,3,0,0
+Bryce Young,Panthers,QB,7,Jets,138,10,0,2,0,0
+Tetairoa McMillan,Panthers,WR,1,Jaguars,0,0,68,0,9,5
+Tetairoa McMillan,Panthers,WR,2,Cardinals,0,0,100,0,10,6
+Tetairoa McMillan,Panthers,WR,3,Falcons,0,0,48,0,8,3
+Tetairoa McMillan,Panthers,WR,4,Patriots,0,0,62,0,8,4
+Tetairoa McMillan,Panthers,WR,5,Dolphins,0,0,73,0,8,6
+Tetairoa McMillan,Panthers,WR,6,Cowboys,0,0,29,0,5,3
+Tetairoa McMillan,Panthers,WR,7,Jets,0,0,33,0,5,3
+Tetairoa McMillan,Panthers,WR,8,Packers,0,0,99,0,10,7
+Rico Dowdle,Panthers,RB,1,Jaguars,0,12,4,3,3,2
+Rico Dowdle,Panthers,RB,2,Cardinals,0,9,10,6,1,1
+Rico Dowdle,Panthers,RB,3,Falcons,0,30,8,10,1,1
+Rico Dowdle,Panthers,RB,4,Patriots,0,32,0,9,1,1
+Rico Dowdle,Panthers,RB,5,Dolphins,0,206,28,23,4,3
+Rico Dowdle,Panthers,RB,6,Cowboys,0,183,56,30,5,4
+Rico Dowdle,Panthers,RB,7,Jets,0,79,17,17,2,1
+Rico Dowdle,Panthers,RB,8,Packers,0,54,0,8,0,0
+Breece Hall,Jets,RB,1,Steelers,0,107,38,19,4,2
+Breece Hall,Jets,RB,2,Bills,0,29,9,10,3,2
+Breece Hall,Jets,RB,3,Buccaneers,0,21,31,9,6,4
+Breece Hall,Jets,RB,4,Dolphins,0,81,30,14,6,5
+Breece Hall,Jets,RB,5,Cowboys,0,113,42,14,5,4
+Breece Hall,Jets,RB,6,Broncos,0,59,0,22,0,0
+Breece Hall,Jets,RB,7,Panthers,0,38,14,11,3,2
+Breece Hall,Jets,RB,8,Bengals,0,113,14,18,3,2
+CeeDee Lamb,Cowboys,WR,1,Eagles,0,0,110,0,13,7
+CeeDee Lamb,Cowboys,WR,2,Giants,0,0,112,0,11,9
+CeeDee Lamb,Cowboys,WR,7,Commanders,0,0,110,0,8,5
+CeeDee Lamb,Cowboys,WR,8,Broncos,0,0,74,0,10,7
+Dak Prescott,Cowboys,QB,1,Eagles,188,0,0,0,0,0
+Dak Prescott,Cowboys,QB,2,Giants,361,0,0,0,0,0
+Dak Prescott,Cowboys,QB,3,Bears,251,0,0,0,0,0
+Dak Prescott,Cowboys,QB,4,Packers,319,0,0,0,0,0
+Dak Prescott,Cowboys,QB,5,Jets,237,0,0,0,0,0
+Dak Prescott,Cowboys,QB,6,Panthers,261,0,0,0,0,0
+Dak Prescott,Cowboys,QB,7,Commanders,264,0,0,0,0,0
+Dak Prescott,Cowboys,QB,8,Broncos,188,0,0,0,0,0
+Javonte Williams,Cowboys,RB,1,Eagles,0,54,10,15,3,2
+Javonte Williams,Cowboys,RB,2,Giants,0,97,33,18,7,6
+Javonte Williams,Cowboys,RB,3,Bears,0,76,16,10,5,5
+Javonte Williams,Cowboys,RB,4,Packers,0,85,15,20,3,3
+Javonte Williams,Cowboys,RB,5,Jets,0,135,4,16,2,1
+Javonte Williams,Cowboys,RB,6,Panthers,0,29,5,13,8,5
+Javonte Williams,Cowboys,RB,7,Commanders,0,116,2,19,4,1
+Javonte Williams,Cowboys,RB,8,Broncos,0,41,8,13,2,1
+George Pickens,Cowboys,WR,1,Eagles,0,0,30,0,4,3
+George Pickens,Cowboys,WR,2,Giants,0,0,68,0,9,5
+George Pickens,Cowboys,WR,3,Bears,0,0,68,0,9,5
+George Pickens,Cowboys,WR,4,Packers,0,0,134,0,11,8
+George Pickens,Cowboys,WR,5,Jets,0,0,57,0,4,2
+George Pickens,Cowboys,WR,6,Panthers,0,0,168,0,11,9
+George Pickens,Cowboys,WR,7,Commanders,0,0,82,0,6,4
+George Pickens,Cowboys,WR,8,Broncos,0,0,75,0,9,7
+Jake Ferguson,Cowboys,TE,1,Eagles,0,0,23,0,6,5
+Jake Ferguson,Cowboys,TE,2,Giants,0,0,78,0,12,9
+Jake Ferguson,Cowboys,TE,3,Bears,0,0,82,0,14,13
+Jake Ferguson,Cowboys,TE,4,Packers,0,0,40,0,7,7
+Jake Ferguson,Cowboys,TE,5,Jets,0,0,49,0,9,7
+Jake Ferguson,Cowboys,TE,6,Panthers,0,0,33,0,3,3
+Jake Ferguson,Cowboys,TE,7,Commanders,0,0,29,0,7,7
+Jake Ferguson,Cowboys,TE,8,Broncos,0,0,0,0,1,0
+Jalen Hurts,Eagles,QB,1,Cowboys,152,62,0,14,0,0
+Jalen Hurts,Eagles,QB,2,Chiefs,101,15,0,9,0,0
+Jalen Hurts,Eagles,QB,3,Rams,226,40,0,9,0,0
+Jalen Hurts,Eagles,QB,4,Buccaneers,130,62,0,9,0,0
+Jalen Hurts,Eagles,QB,5,Broncos,280,3,0,2,0,0
+Jalen Hurts,Eagles,QB,6,Giants,283,13,0,7,0,0
+Jalen Hurts,Eagles,QB,7,Vikings,326,0,0,4,0,0
+Jalen Hurts,Eagles,QB,8,Giants,179,22,0,4,0,0
+Saquon Barkley,Eagles,RB,1,Cowboys,0,60,24,18,5,4
+Saquon Barkley,Eagles,RB,2,Chiefs,0,88,6,22,2,2
+Saquon Barkley,Eagles,RB,3,Rams,0,46,9,18,5,4
+Saquon Barkley,Eagles,RB,4,Buccaneers,0,43,31,19,4,4
+Saquon Barkley,Eagles,RB,5,Broncos,0,30,58,6,3,3
+Saquon Barkley,Eagles,RB,6,Giants,0,58,9,12,3,2
+Saquon Barkley,Eagles,RB,7,Vikings,0,44,0,18,1,1
+Saquon Barkley,Eagles,RB,8,Giants,0,150,24,14,5,4
+Devonta Smith,Eagles,WR,1,Cowboys,0,0,16,0,3,3
+Devonta Smith,Eagles,WR,2,Chiefs,0,0,53,0,6,4
+Devonta Smith,Eagles,WR,3,Rams,0,0,60,0,9,8
+Devonta Smith,Eagles,WR,4,Buccaneers,0,0,29,0,2,2
+Devonta Smith,Eagles,WR,5,Broncos,0,0,114,0,10,8
+Devonta Smith,Eagles,WR,6,Giants,0,0,49,0,5,4
+Devonta Smith,Eagles,WR,7,Vikings,0,0,183,0,11,9
+Devonta Smith,Eagles,WR,8,Giants,0,0,84,0,9,6
+Dallas Goedert,Eagles,TE,1,Cowboys,0,0,44,0,7,7
+Dallas Goedert,Eagles,TE,3,Rams,0,0,33,0,2,1
+Dallas Goedert,Eagles,TE,4,Buccaneers,0,0,37,0,4,4
+Dallas Goedert,Eagles,TE,5,Broncos,0,0,19,0,9,3
+Dallas Goedert,Eagles,TE,6,Giants,0,0,110,0,11,9
+Dallas Goedert,Eagles,TE,7,Vikings,0,0,18,0,3,3
+Dallas Goedert,Eagles,TE,8,Giants,0,0,28,0,3,3
+AJ Brown,Eagles,WR,1,Cowboys,0,0,8,0,1,1
+AJ Brown,Eagles,WR,2,Chiefs,0,0,27,0,8,5
+AJ Brown,Eagles,WR,3,Rams,0,0,109,0,10,6
+AJ Brown,Eagles,WR,4,Buccaneers,0,0,7,0,9,2
+AJ Brown,Eagles,WR,5,Broncos,0,0,43,0,8,5
+AJ Brown,Eagles,WR,6,Giants,0,0,80,0,9,6
+AJ Brown,Eagles,WR,7,Vikings,0,0,121,0,6,4
+Bo Nix,Broncos,QB,1,Titans,176,18,0,8,0,0
+Bo Nix,Broncos,QB,2,Colts,206,20,0,3,0,0
+Bo Nix,Broncos,QB,3,Chargers,153,33,0,8,0,0
+Bo Nix,Broncos,QB,4,Bengals,326,7,0,6,0,0
+Bo Nix,Broncos,QB,5,Eagles,242,22,0,3,0,0
+Bo Nix,Broncos,QB,6,Jets,174,24,0,5,0,0
+Bo Nix,Broncos,QB,7,Giants,279,48,0,5,0,0
+Bo Nix,Broncos,QB,8,Cowboys,247,0,0,1,0,0
+Courtland Sutton,Broncos,WR,1,Titans,0,0,61,0,9,6
+Courtland Sutton,Broncos,WR,2,Colts,0,0,6,0,4,1
+Courtland Sutton,Broncos,WR,3,Chargers,0,0,118,0,8,6
+Courtland Sutton,Broncos,WR,4,Bengals,0,0,81,0,6,5
+Courtland Sutton,Broncos,WR,5,Eagles,0,0,99,0,10,8
+Courtland Sutton,Broncos,WR,6,Jets,0,0,17,0,3,1
+Courtland Sutton,Broncos,WR,7,Giants,0,0,87,0,10,6
+Courtland Sutton,Broncos,WR,8,Cowboys,0,0,67,0,6,4
+JK Dobbins,Broncos,RB,1,Titans,0,63,0,0,0,0
+JK Dobbins,Broncos,RB,2,Colts,0,76,0,0,0,0
+JK Dobbins,Broncos,RB,3,Chargers,0,83,0,0,0,0
+JK Dobbins,Broncos,RB,4,Bengals,0,101,0,0,0,0
+JK Dobbins,Broncos,RB,5,Eagles,0,79,0,0,0,0
+JK Dobbins,Broncos,RB,6,Jets,0,40,0,0,0,0
+JK Dobbins,Broncos,RB,7,Giants,0,81,0,0,0,0
+JK Dobbins,Broncos,RB,8,Cowboys,0,111,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
+,,,,,0,0,0,0,0,0
